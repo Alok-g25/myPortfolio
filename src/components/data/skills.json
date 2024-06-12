@@ -13,11 +13,11 @@
   },
   {
     "title": "Bootstrap",
-    "imageSrc": "skills/javascript.png"
+    "imageSrc": "skills/bootstrap.png"
   },
   {
     "title": "Tailwind",
-    "imageSrc": "skills/javascript.png"
+    "imageSrc": "skills/tailwind.png"
   },
   {
     "title": "React",
@@ -29,7 +29,7 @@
   },
   {
     "title": "Express",
-    "imageSrc": "skills/node.png"
+    "imageSrc": "skills/express.png"
   },
   {
     "title": "MongoDB",
