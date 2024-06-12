@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "education": "Pt Deen Dayal Inter College Maharajganj, Uttar Pardesh",
+    "organisation": "10th, 2016"
+  },
+  {
+    "id": 2,
+    "education": "Pt Deen Dayal Inter College Maharajganj, Uttar Pardesh",
+    "organisation": "12th, 2018"
+  },
+  {
+    "id": 3,
+    "education": "JS University Shikohabad, Agra",
+    "organisation": "BCA(Bachelor of Computer Applications), 2024"
+  },
+  {
+    "id": 4,
+    "education": "Ducat Institue, Noida Sector 16, Uttar Pardesh",
+    "organisation": "MERN full Stack, 2023"
+  }
+]
