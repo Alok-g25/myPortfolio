@@ -4,7 +4,7 @@ import skill from "./data/skills.json";
 function Skill() {
   return (
     <>
-      <div className="w-[800px] mx-auto md:px-20 px-4" id="skills">
+      <div className="w-full md:w-[800px] mx-auto md:px-20 px-2" id="skills">
         <h2 className="text-center text-2xl uppercase md:text-4xl my-10 underline">
           Skill
         </h2>
@@ -15,7 +15,7 @@ function Skill() {
                 <div data-aos="flip-left"
                   data-aos-duration="2000"
                   
-                 className="w-80 p-6 border-[1px] border-yellow-300 shadow-md shadow-yellow-300 rounded-lg">
+                 className="w-full md:w-80 p-6 border-[1px] border-yellow-300 shadow-md shadow-yellow-300 rounded-lg">
                   <div className="flex justify-center items-center flex-col ">
                     <img
                       className="w-[100px] h-[100px]"

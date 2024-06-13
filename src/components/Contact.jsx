@@ -19,19 +19,19 @@ function Contact() {
                    className='flex justify-center items-center gap-5'>
           
             <a href="#" target='_blank' className='p-4 bg-slate-800 rounded-full border-[2px] border-yellow-300 hover:shadow-md hover:shadow-yellow-300 duration-300 hover:scale-105 hover:text-yellow-500 hover:bg-slate-100'>
-              <FaSquareInstagram className='text-4xl'/>
+              <FaSquareInstagram className='text-2xl md:text-4xl'/>
             </a>
             <a href="https://www.linkedin.com/in/alok-gupta-68b3a7253/" target='_blank' className='p-4 bg-slate-800 rounded-full border-[2px] border-yellow-300 hover:shadow-md hover:shadow-yellow-300 duration-300 hover:scale-105 hover:text-yellow-500 hover:bg-slate-100'>
-              <FaLinkedin className='text-4xl'/>
+              <FaLinkedin className='text-2xl md:text-4xl'/>
             </a>
             <a href="https://github.com/Alok-g25" target='_blank' className='p-4 bg-slate-800 rounded-full border-[2px] border-yellow-300 hover:shadow-md hover:shadow-yellow-300 duration-300 hover:scale-105 hover:text-yellow-500 hover:bg-slate-100'>
-              <FaGithubSquare className='text-4xl'/>
+              <FaGithubSquare className='text-2xl md:text-4xl'/>
             </a>
             <a href="https://wa.me/6392190896" target='_blank' className='p-4 bg-slate-800 rounded-full border-[2px] border-yellow-300 hover:shadow-md hover:shadow-yellow-300 duration-300 hover:scale-105 hover:text-yellow-500 hover:bg-slate-100'>
-              <FaSquareWhatsapp className='text-4xl'/>
+              <FaSquareWhatsapp className='text-2xl md:text-4xl'/>
             </a>
             <a href="mailto:alokkumar9506492158@gmail.com" target='_blank' className='p-4 bg-slate-800 rounded-full border-[2px] border-yellow-300 hover:shadow-md hover:shadow-yellow-300 duration-300 hover:scale-105 hover:text-yellow-500 hover:bg-slate-100'>
-              <IoMdMail className='text-4xl'/>
+              <IoMdMail className='text-2xl md:text-4xl'/>
             </a>
           </div>
       </div>
